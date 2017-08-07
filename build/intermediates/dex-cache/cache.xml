@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6fa526517318d8e3b15c5c32b9e99478f163ee5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/c0f5b8aa96af638de8a2ed8510b6e95ca46135fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8117d1a58fbab4472b1a6a32ce416fcdd07ccee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/6820204c48e3e34cecb8436b4d0eeeed38057f19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31d60feaea153e784e426f0925bb2a30653fcb28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/63a3c4a23d461348c2e9d15754a305dae97782c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d15784a446183d72989887f5f74474c0c83dd6e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_1055edb1a2fc2495e41cb819199f591b6110b4cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/666b1b21a6467db6b698db0b6b126dc11f71979d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_385652762767d21c007b7d281d5aabe849c1b62c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/447a1aaef756af6ca5f2f8a7e0c74f6f87f27502/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_698c68dba817831f8510dbd948657cc437baf687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/7c618e363d8718048a9446a0dd32c791d96b5717/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7c0d0c9b66edbe5f377b8cbaaf5685798f59f3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/a416be5d61da6872274d571544a9c26c37baf438/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eea6faceb38ab8fd134b8ed7b0a51c64f505b9d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/e252a8372769d001ab2ee1a68107e6d2c7ce374a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53b16bdcbadd19b1eefbe070ca9620a37800f8fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_b8a6054553229eee8bf23ee7a27b729d018154ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/f8083dcc077067bc724d49403e2c4e8a4cd33edb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20d801fb8fc1f989922f378b3c711a1cd938b8a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/0365dbfda5ccb407919b6be853a323b8ba460433/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_423b5683c67deaf572aa20c0a2775e1f8405d310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/2efe7f97c52028cc8a22c715add5938f85e6bd3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eaf587e343dbe85a32d128d0ab22f324bf8a3255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="808ad7dff6ebb7301dec8058f73ebb25b7b177be">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b81c9d1ee1812f246ee53dd9319dbd659950ec67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/c9f169cc59d630879d139c733644b4483c0ed007/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b322711160554d1e8b4454d5fffeac661acf9938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/.android/build-cache/bff261b787e3c0981798eaa7671c38e914557ec5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/akhil/AndroidStudioProjects/christian-songs-android/ChristianSongs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b843a5b22c5f3ec9954bfbdf32d2bc02a32d670/classes.dex" />
+    </item>
+
+</items>
